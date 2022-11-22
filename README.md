@@ -1,2 +1,2 @@
 # AI-Painter
-Mini Painter 
+Mini Painter with basic features (Add, delete and colorize)
